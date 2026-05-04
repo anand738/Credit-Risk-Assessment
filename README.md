@@ -59,13 +59,3 @@ It combines:
   - Prediction (Good / Bad)  
   - Probability scores  
 
----
-
-
-
-Credit Risk (Good / Bad)
-Probability scores
-Results are displayed with:
-Gauge visualization
-Risk factors
-Final recommendation
