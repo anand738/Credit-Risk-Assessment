@@ -4,6 +4,11 @@ An end-to-end **Machine Learning-powered Credit Risk Assessment system** with an
 
 ---
 
+## 🚀 Live Demo
+
+👉 https://credit-risk-assessment-tkgwp4gzeya56ao8ctwhqh.streamlit.app/
+
+
 ## 🚀 Overview
 
 CreditSense helps financial institutions and analysts make smarter lending decisions by predicting whether a customer is a **good or bad credit risk** based on personal and financial attributes.
