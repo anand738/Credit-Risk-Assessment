@@ -61,44 +61,8 @@ It combines:
 
 ---
 
-## 🗂️ Project Structure
-CreditSense/
-│
-├── app.py
-├── german_credit_data.csv
-├── requirements.txt
-│
-├── outputs/
-│ ├── rf_model.pkl
-│ ├── scaler.pkl
-│ ├── le_dict.pkl
-│ ├── feature_names.pkl
-│
-├── assets/
-│ └── UI.png
-│
-└── README.md
 
 
----
-
-## ⚙️ Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/anand738/Credit-Risk-Assessment.git
-cd Credit-Risk-Assessment
-
-pip install -r requirements.txt
-
-streamlit run app.py
-'''
-
-## 🖥️ How It Works
-User inputs applicant details via UI
-Loan amount is converted from INR → DM
-Data is preprocessed and scaled
-Model predicts:
 Credit Risk (Good / Bad)
 Probability scores
 Results are displayed with:
